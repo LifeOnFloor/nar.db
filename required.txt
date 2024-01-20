@@ -1,0 +1,12 @@
+pandas
+pymongo
+selenium
+bs4
+lxml
+plotly
+tqdm
+ipykernel
+scikit-learn
+tensorflow
+keras
+streamlit
