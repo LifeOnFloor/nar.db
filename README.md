@@ -12,7 +12,7 @@
    ```
    python -m venv .venv
    source .venv/bin/activate  # macOS
-   # .venv\Scripts\activate   # Windows
+   # .venv/Scripts/activate   # Windows
    python -m pip install -r required.txt
    ```
 ## MongoDBの準備
