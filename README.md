@@ -33,7 +33,6 @@
 
 <img width="1439" alt="スクリーンショット 2024-01-29 14 43 51" src="https://github.com/LifeOnFloor/nar.db/assets/119148510/5af6c379-062b-4fa7-94a1-dc605af09f8e">
 
-
-# 注意
 >[!CAUTION]
->**netkeiba.com様のサーバーに負荷がかかってしまうので、スクレイピングの頻度には節度ある設定をしてください。**
+>[スクレイピング]
+>netkeiba.comに負荷がかからないように、節度あるアクセス頻度にしてください。
